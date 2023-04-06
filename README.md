@@ -1,4 +1,4 @@
-### Hi there 👋
+### I never failed. I just found 10,000 ways that didn't work.
 
 <!--
 **JustCursed/JustCursed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
