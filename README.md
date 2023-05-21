@@ -1,8 +1,7 @@
 ### I never failed. I just found 10,000 ways that didn't work.
 
 ## [My CodeWars profile](https://www.codewars.com/users/JustCursed)
-![image info](https://www.codewars.com/users/JustCursed/badges/large)
-
+[<img align="left" alt="codewars profile" src="https://www.codewars.com/users/JustCursed/badges/large" />][CodeWars]
 <!--
 **JustCursed/JustCursed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
