@@ -1,6 +1,6 @@
-## I never failed. I just found 10,000 ways that didn't work.
+### Contact me only via Discord: `funkyra` or Telegram: `@nankyra`
+P.S. Better via Discord
 
-### [My CodeWars profile](https://www.codewars.com/users/JustCursed)
 <img align="left" alt="codewars profile" src="https://www.codewars.com/users/funkyra/badges/large" />
 
 <!--
