@@ -1,4 +1,4 @@
-### Contact me only via Discord: `funkyra` or Telegram: `@nankyra`
+### Contact me only via Discord: `funkyra` or Telegram: `@wunkyra`
 P.S. Better via Discord
 
 <img align="left" alt="codewars profile" src="https://www.codewars.com/users/funkyra/badges/large" />
